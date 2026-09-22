@@ -1,0 +1,10 @@
+{
+  "id": "kl.weatherpicker",
+  "name": "Weather Picker",
+  "version": "1.0.0",
+  "author": "KrazenLabs",
+  "description": "Change the weather at any time.",
+  "assembly": "WeatherPicker.dll",
+  "loaderVersion": ">=1.2.0",
+  "url": "https://www.krazenlabs.com"
+}
