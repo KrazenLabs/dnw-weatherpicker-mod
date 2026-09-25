@@ -1,6 +1,6 @@
 # Drag'n'Wash Weather Picker Mod
 
-Tired of the rain? Want every wash to happen at night? This mod lets you pick the weather for every level.
+Tired of the rain? Want every wash to happen at night? This mod lets you change the weather whenever you like!
 
 # Installation
 
